@@ -1,0 +1,1 @@
+# qa_quru-puthon_9_2
